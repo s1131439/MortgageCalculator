@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "個人房貸試算器", "個人房貸試算器\個人房貸試算器.csproj", "{C0A38F84-C972-442D-8156-C65600EE2CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A38F84-C972-442D-8156-C65600EE2CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A38F84-C972-442D-8156-C65600EE2CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A38F84-C972-442D-8156-C65600EE2CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A38F84-C972-442D-8156-C65600EE2CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613F0D98-EF01-4A61-B81E-8406256CA3F2}
+	EndGlobalSection
+EndGlobal
